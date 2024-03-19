@@ -1,0 +1,13 @@
+# editor-tmp
+.vscode
+.idea
+
+# build-tmp
+/target
+/build
+/dist
+*.egg-info
+
+# cpython-caches
+__pycache__
+*.pyc
